@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devpladinc
+- 👋 Hi, call me Cha.
 - 👀 Outdoor adventures | Beaches and Sunset | Biking | Cats
-- 🌱 FastAPI | JS | CICD | noSQL | MVC | Fintech
+- 🌱 FastAPI | JS | CICD | noSQL | MVC | Fintech | GCP
 - 💞️ Web development | API services
 - 📫 Linkedin: https://www.linkedin.com/in/charizapladin/
 
