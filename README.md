@@ -1,7 +1,7 @@
 - 👋 Hi, call me Cha.
 - 👀 Outdoor adventures | Beaches and Sunset | Biking | Cats
-- 🌱 FastAPI | JS | CICD | noSQL | MVC | Fintech | GCP
-- 💞️ Web development | API services
+- 🌱 FastAPI | JS | Linux | PostgreSQL | Fintech | AWS
+- 💞️ Web development | API services | Chatbots
 - 📫 Linkedin: https://www.linkedin.com/in/charizapladin/
 - 📋 Certrified Scrum Foundation Professional (SFPC) | Kanban Foundation (KIKF)
 - :books: preparation for Amazon Cloud exams
