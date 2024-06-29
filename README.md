@@ -1,5 +1,5 @@
 - 👋 Hi, call me Cha.
-- 🌱 Django | JS | Linux | PostgreSQL | Fintech | AWS
+- 🌱 Flask | JS | Linux | PostgreSQL | Fintech | AWS | GCP
 - 💞️ Web development | API services | Chatbots
 - 📫 Linkedin: https://www.linkedin.com/in/charizapladin/
 - :books: AWS certification
